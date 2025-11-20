@@ -10,7 +10,7 @@
   "consolereact": true,
   "antipv": false,
   "anticall": false,
-  "visualizarmsg": false,
+  "visualizarmsg": true,
   "listanegraG": [],
   "botoes_": false,
   "buttons": false,
